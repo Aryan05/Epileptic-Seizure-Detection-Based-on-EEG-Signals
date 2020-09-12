@@ -2,6 +2,10 @@
 <img src="./input/EEG Brain Module.jpg" width = "300" height = "150" align=center />
 ![](https://github.com/Aryan05/Epileptic-Seizure-Detection-Based-on-EEG-Signals/blob/master/EEG%20Brain%20Module.jpg)
 
+<p align="center">
+    <img src="EEG Brain Module.jpg" alt="Image"/>
+</p>
+
 
 ### Epilepsy
 Epilepsy may occur as a result of a genetic disorder or an acquired brain injury, such as a trauma or stroke.
