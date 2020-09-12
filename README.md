@@ -16,7 +16,7 @@ Many different things can occur during a seizure. Whatever the brain and body ca
 
 ## Detection 
 If the prediction is 1 then the signal is epileptical otherwise the class is made 0 and signal is non epileptical.
-Eplileptical - 1 Not Epileptical - 0
+- Eplileptical 1 Not Epileptical 0
 - Product_Final.ipynb
 The trained model is loaded then its used for prediction on the validation set. Now the prediction are changed for binary class, i.e., if the prediction is 1 then the signal is epileptical otherwise the class is made 0 and signal is non epileptical. Same procedure is followed for trainig set.
 
